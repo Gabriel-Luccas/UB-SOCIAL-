@@ -1,3 +1,6 @@
 django
 djangorestframework
 requests
+
+
+https://github.com/mateusschwede/django/tree/main/CursoDjangoAPI
